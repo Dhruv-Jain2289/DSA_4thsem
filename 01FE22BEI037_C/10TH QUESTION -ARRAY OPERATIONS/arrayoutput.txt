@@ -1,0 +1,4 @@
+Largest element: 54
+Smallest element: 12
+Sum of elements: 145
+Average of elements: 36.25

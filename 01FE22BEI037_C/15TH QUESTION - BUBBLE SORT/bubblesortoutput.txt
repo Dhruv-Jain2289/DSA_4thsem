@@ -1,0 +1,2 @@
+Sorted array:
+32 45 65 

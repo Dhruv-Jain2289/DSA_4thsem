@@ -1,0 +1,2 @@
+Sorted array:
+24 34 36 
